@@ -1,0 +1,22 @@
+public class New {
+
+    /**
+     */
+    public class prak_Scannner{
+        public  void main(String[] args) {
+     //buat scanner
+        Scanner s1 = new Scanner(System.in);
+    // ambil nilai dari keyboard
+    
+        System.out.println("Masukkan nilai1 = 10 ");
+        int nilai1 = s1.nextInt();
+        System.out.println("Masukkan nilai2 = 15");
+        int nilai2 = s1.nextInt();
+            
+    // hitung dan Prinht
+        int nilai = 0;
+        System.out.println("nilai= " + nilai);
+        
+            
+        }
+    }
